@@ -1,3 +1,10 @@
+@font-face {
+    font-family: PFDin; /* Имя шрифта */
+    src: url(fonts/PFDinDisplayPro-Reg.ttf); /* Путь к файлу со шрифтом */
+   }
+body{
+    font-family: PFDin, Verdana;
+}
 #top-navigation .menuitem a span {
  
     width: 80%;
@@ -5,6 +12,12 @@
    margin-top: 30px;
   
     }
+
+/*.menuitem:nth-child(6n) a span{
+ 
+      margin-top: 0px;
+  
+    }*/
 
 #top-navigation .ident .vc-name .position .pdf a {
  
@@ -48,3 +61,8 @@
 div.fullwidth.box p img{
 	width: 150px;
 }
+#logo{
+        margin-left: -50px;
+}
+
+
