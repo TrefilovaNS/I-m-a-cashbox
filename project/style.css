@@ -1,0 +1,50 @@
+#top-navigation .menuitem a span {
+ 
+    width: 80%;
+    margin: 0 auto;
+   margin-top: 30px;
+  
+    }
+
+#top-navigation .ident .vc-name .position .pdf a {
+ 
+    padding-top: 25%;
+}
+
+/*#top-navigation .ident .vc-name .name .name-pdf a {
+
+    top: -20px;
+}
+*/
+.photo-01 {
+    background: url(images/img.jpg);
+   background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    }
+
+#block1{
+ 	float: left;
+    }
+
+#block2{
+    	float: right;
+    	width: 30%;
+    	font-size: 18px;
+    	line-height: 1.3em;
+}
+
+.cd-intro {
+    width: 95%;
+ 
+}
+
+#top-navigation .ident .vc-name .name .name-pdf a i {
+     padding-top: 0px; 
+    
+}
+
+div.fullwidth.box p img{
+	width: 150px;
+}
