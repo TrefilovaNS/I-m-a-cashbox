@@ -69,5 +69,33 @@ div.fullwidth.box p img{
 #logo{
         margin-left: -50px;
 }
+.font-regular-normal{
+    margin-top: 20px;    
+}
 
+.text-red{
+    color: red;
+}
+.fixed-height{
+    height: 30px;
+}
 
+#timeline .timeline-vert li {
+    margin-bottom: 0px;
+}
+
+#timeline .timeline-vert ul{
+    list-style: circle inside;
+}
+
+.btn-yellow {
+    color: #e7b43c !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.row-width {
+    width: 50%;
+}
